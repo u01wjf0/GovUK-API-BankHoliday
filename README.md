@@ -1,2 +1,2 @@
 # GovUK-API-BankHoliday
-API library for UK bank holidays
+Java API library for UK bank holidays
