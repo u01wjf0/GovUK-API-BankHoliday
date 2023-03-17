@@ -1,0 +1,9 @@
+com\wfraser\ukgov\apis\models\Root$1.class
+com\wfraser\ukgov\apis\models\EnglandAndWales.class
+com\wfraser\ukgov\apis\models\Root.class
+com\wfraser\ukgov\apis\BankHolidays.class
+com\wfraser\ukgov\apis\exceptions\BankHolidayException.class
+com\wfraser\ukgov\apis\models\Events.class
+com\wfraser\ukgov\apis\models\Scotland.class
+com\wfraser\ukgov\apis\models\Event.class
+com\wfraser\ukgov\apis\models\NorthernIreland.class
